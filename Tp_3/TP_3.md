@@ -1,8 +1,3 @@
----
-title: '#TP 3'
-
----
-
 # TP 3 Hardening des systèmes avec SElinux
 
 ## 3. Consignes
