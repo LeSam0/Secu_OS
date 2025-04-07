@@ -205,8 +205,3 @@ Les bonnes pratiques sont disponibles sur le site
 On verifie que SELinux est activer et en mode "enforcing", ce qu'on a configurer précedament.
 
 On verifie qu'aucun service esr en "unconfined_service", ce qu'on a corriger précedament
-
-<<<<<<< HEAD
-=======
-4. 
->>>>>>> 10786773e4a164e0ed074c4b6ca0c93f1a80e750
