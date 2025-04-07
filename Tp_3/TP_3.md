@@ -1,8 +1,3 @@
----
-title: '#TP 3'
-
----
-
 # TP 3 Hardening des systèmes avec SElinux
 
 ## 3. Consignes
@@ -211,3 +206,7 @@ On verifie que SELinux est activer et en mode "enforcing", ce qu'on a configurer
 
 On verifie qu'aucun service esr en "unconfined_service", ce qu'on a corriger précedament
 
+<<<<<<< HEAD
+=======
+4. 
+>>>>>>> 10786773e4a164e0ed074c4b6ca0c93f1a80e750
